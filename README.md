@@ -1,2 +1,2 @@
 My second readme
-alx is great
+Staring to code today, so cool
